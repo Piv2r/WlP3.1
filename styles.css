@@ -1,0 +1,63 @@
+.news h1 {
+color: yellowgreen;
+text-align: center;
+}
+
+.h3 {
+    color:white
+    
+}
+
+body {
+    background-color:aquamarine;
+}
+
+.p5 {
+color:red;
+
+}
+
+.p2 {
+    color:blue;
+
+}
+
+.table1 {
+    color:green;
+    text-decoration: line-through;
+
+}
+
+.table2 {
+    Color: Purple;
+    text-decoration:underline ;
+
+
+}
+
+.anon {
+    color:white;
+
+
+}
+
+.info {
+    color:blue;
+
+}
+
+.table3 {
+    color:red;
+
+
+
+}
+
+.img {
+    padding: 20px
+    
+
+
+}
+
+
